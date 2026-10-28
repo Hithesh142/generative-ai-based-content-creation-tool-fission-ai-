@@ -1,0 +1,35 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache & test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Data storage and databases
+data/*.db
+data/*.sqlite3
+data/images/
+data/logs/
+!data/dataset_links.txt
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+assets/output/
+assets/*.zip
+assets/*.mp4
+main_model_code.txt

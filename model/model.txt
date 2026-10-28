@@ -1,0 +1,3 @@
+Please check new fission ai model of ipynb
+main_model.ipynb -> used
+rest of all defunct 

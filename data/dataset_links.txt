@@ -1,0 +1,9 @@
+## Main Dataset for Fission AI:
+
+https://www.kaggle.com/datasets/diraizel/anime-images-dataset   = anime image dataset
+
+https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset  = main image dataset flicker
+
+https://www.kaggle.com/datasets/nikhil7280/coco-image-caption  = coco image dataset
+
+https://www.kaggle.com/datasets/starktony45/image-dataset/data = It contains 82.8K images of random things, from human to portrait, animals and many stuff.
